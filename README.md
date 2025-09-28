@@ -8,3 +8,6 @@ Turno: <Turno-mañana>
 Alumno: <Lautaro-Godoy>
 Division: <Division-113>
 Turno: <Turno-mañana>
+Alumno: <Lautaro-Godoy>
+Division: <Division-113>
+Turno: <Turno-mañana>
