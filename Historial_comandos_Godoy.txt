@@ -1,0 +1,377 @@
+exit
+ssh-keygen -t ed22519
+ssh-keygen -t ed25519
+ls - l .ssh/
+ls -l .ssh
+sudo systemctl status sshd
+cat .ssh/id_ed25519.pub
+cd .ssh
+ls -la
+ssh-keygen -t ed25519
+y
+ssh-keygen -t ed25519
+cd.ssh
+ls -la
+HOME
+ls -la
+.ssh
+.pub
+id_ed25519.pub
+cat
+ssh-keygen -t ed25519
+ls -l .ssh
+.shh/id_ed25519.pub
+cat .shh/id_ed25519.pub
+sudo systemctl status sshd
+cat .shh/id_ed25519.pub
+shh-keygen -t ed25519
+ssh-keygen -t ed25519
+ls -l .shh
+ls .l .ssh
+ls -l .ssh/
+sudo sytemctl status sshd
+sudo systemct status sshd
+sudo systemctl status sshd
+cat .ssh/id_ed25519.pub
+Cd
+cdcdcd
+c
+dddas
+c exit
+clear
+exit
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:godoylautaro39-stack/TP1_AySO_godoy_lautaro.git
+cd T
+cd TP1_AySO_godoy_lautaro/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOMRE_URL/etc/os-release
+ls -l
+cd repogit
+git clone <Verificar en la ayuda del comando grep co
+mo ignorar las mayúsculas y minúsculas.
+git clone Verificar en la ayuda del comando grep co
+mo ignorar las mayúsculas y minúsculas.
+git clone git@github.com:godoylautaro39-stack/TP1_AySO_godoy_lautaro.git
+cd TP1_AySO_godoy_lautaro/
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+greo home_url /etc/os-release
+grep home_url /etc/os-release
+grep home:url/etc/os-release
+cd repogit
+cd TP1_AySO_godoy_lautaro/
+grep home_url /etc/os-release
+grep grep HOME_URL /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep -i homre_url /etc/os-release > datos_url.txt
+whoami
+cd HOME
+home
+whoami
+echo "usuario=$(whoami)" > datos_usuario.txt
+git add
+git add .
+git config --global user.email "godoylautaro39@gmail.com
+
+"
+git config --global user.email "godoylautaro39@gmail.com"
+git config --global user.name "godoylautaro39-stack"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git estatus
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add datos_usuarios.txt
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+git push
+cat <<EOF>> README.mdcat <<EOF >> README.md
+Alumno: <Tu-Nombre>
+División: <Numero>
+Turno: <Tu-Turno>
+.
+
+
+eof
+lautaro
+EOF
+"Ç
+
+
+EOF
+
+at <<EOF>> README.mdcat <<EOF >> README.md
+Alumno: <Lautaro>
+Division: <113>
+Turno: <mañana>
+EOF
+
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: añadiendo Readme y datos de usuario"
+git push
+cs README.md
+install csound
+READ.md
+cat <<EOF>> README.md
+Alumno: <Lautaro-Godoy>
+Division: <Division-113>
+Turno: <Turno-mañana>
+EOF
+
+git add README.md datos_usuarios.txt
+git pushç
+git push
+cd repogit
+cd TP1_AySO_godoy_lautaro/
+vim README.md
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+cat <<EOF>> README.md
+Alumno: <Lautaro-Godoy>
+Division: <Division-113>
+Turno: <Turno-mañana>
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD:Añadiendo Readme y datos de usuario"
+git push
+git pull
+cat <<EOF>> README.md
+Alumno: <Lautaro-Godoy>
+Division: <Division-113>
+Turno: <Turno-mañana>
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD:Añadiendo Readme y datos de usuario"
+git push
+git pull origin main
+git push origin main
+git branch
+git pull origin main
+git push origin main
+git pull --no-rebase origin main
+git push origin main
+git pull --rebase origin main
+git push origin main
+git pull origin main --no-rabase
+git push origin main
+git branch
+git pull main --no--rebase
+git pull origin main --no-rebase
+git status
+README.md
+vim README.md
+rm .README.md.swp
+vim README.md
+git push
+git pull
+vim README.md
+rm .README.md.swp
+ls -la
+nano README.md
+git add README.md
+git commit
+git push origin main
+nano README.md
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+nano README.md
+git add README.md
+git commit
+git push origin main
+pwd
+echo $HOME
+tree
+sudo apt instal tree
+sudo apt install tree
+sudo snap install tree
+tree
+mkdir -p {material1/material2}/{unidad1,uni1,uni2,uni3}
+tree
+rm -r material1
+ls
+tree
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+tree
+rm -r {material1
+tree
+mkdir -p {material1/uni{1..3},material2/{uni{1..3}}
+tree
+rm -r material1
+rm -r {mateiral1
+tree
+rm -r {material1
+tree
+ls
+tree
+mkdir -p {material1,material2}/{uni1,uni2,uni3}
+ls
+tree
+vim script_dir.sh
+ls -l
+rm -r material1
+tree
+rm -r material2
+tree
+ls -l
+cs vagrant
+cd vagrant
+cd -
+cd-
+cd -
+cd --
+mkdir -p {material1,material2}/uni{1..3}
+tree
+ls -l
+cd repogit/
+cd t
+cd TP1_AySO_godoy_lautaro/
+ls -l
+tree
+vim script_dir.sh
+tree /vagrant
+tree/home/vagrant
+tree /home/vagrant
+cd --
+rm -r material 1
+ls -l
+rm -r material1
+rm -r material2
+ls -l
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+mkdir -p {material1,material2}/uni{1..3} < /home/vagrant
+tree /home/vagrant
+ls -l
+tree
+ls -l
+rm -r material1
+ls -l
+rm -r material 2
+rm -r material2
+ls -l
+tree /home/vagrant
+/home/vagrant > mkdir -p {materia1,materia2}/uni{1..3}
+ls -l
+tree
+tree /home/vagrant
+ls -l
+mr -r mkdir
+ls -l
+rm -r mkdir
+ls -l
+tree
+mkdir -p > /home/vagrant {materia1,materia2}/uni{1..3}
+ls -l
+tree /home/vagrant
+cd --
+ls -l
+tree
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+/home/vagrant > mkdir -p {materia1,materia2}/uni{1..3}
+ls -lñ
+ls -l
+tre
+tree
+rm -r mkdir
+tree
+mkdir -p home/vagrant {materia1,materia2}/uni{1..3}
+ls -l
+rm -r home
+ls -l
+rm -r materia1
+rm -r materia2
+ls -l
+mkdir -p > home/vagrant {materia1,materia2}/uni;{1..3}
+mkdir -p /home/vagrant {materia1,materia2}/uni{1..3}
+ls -l
+rm -r materia1
+rm -r materia2
+ls -l
+mkdir -p > /home/vagrant {materia1,materia2}/uni{1..3}
+mkdir -p {materia1,materia2}/uni{1..3} < /home/vagrant
+ls -l
+rm -r materia1
+rm -r materia2
+ls -l
+mkdir -p {materia1,materia2}/uni{1..3} > /home/vagrant
+whoami
+ls
+vim README.mdcat
+ls -l
+mkdir -p ~/home/vagrant/ {materia1,materia2}/uni{1..3}
+ls -l
+rm -r materia1
+rm -r materia 2
+rm -r materia2
+ls -s
+tree
+vim README.md
+rm -r README.mdcat
+ls -l
+mkdir -p >/home/vagrant/ {materia1,materia2}/uni{1..3}
+mkdir -p /home/vagrant {materia1,materia2}/uni{1..3}
+ls -l
+tree /home/vagrant
+rm -r materia1
+rm -r materia2
+ls -l
+mkdir -p /home/vagrant/materia1{1,2}/uni{1.3}
+ls -l
+tree /home/vagrant
+cd--
+cd --
+tree
+rm -r materia1
+rm -r {materia1
+rm -r home
+tree
+rm -r materia11
+rm -r materia22
+tree
+rm -r materia12
+ls -l
+cs repogit/
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+ls -l
+mkdir -p ~/materia1/uni{1..3] ~/materia2/uni{1..3}
+ls -l
+tree /home/vagrant
+cd --
+rm -r materia1
+rm -r materia2
+tre
+tree
+cd repogit/
+cd TP1_AySO_godoy_lautaro/
+mkdir -p ~/{materia1,materia2}/uni{1..3}
+ls -
+ls -l
+tree /home7vagrant
+tree /home/vagrant
+vim script_dir.sh
+./script_dir.sh
+chmod 775 script_dir.sh
+ls -l
+git add .
+git commmit -m "ADD:Añadiendo script"
+git commit -m "ADD:Añadiendo script"
+git push
+history -a
